@@ -1,3 +1,5 @@
+// Copyright (c) 2024, Charles T.
+
 version = "1.0.0"
 group   = "abitodyssey.pendu"
 
